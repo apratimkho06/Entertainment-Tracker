@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1042966767673",
+    "firebase_url": "https://entertainment-tracker-b6099.firebaseio.com",
+    "project_id": "entertainment-tracker-b6099",
+    "storage_bucket": "entertainment-tracker-b6099.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042966767673:android:fa76254c46da7b580805e8",
+        "android_client_info": {
+          "package_name": "com.example.entertainmenttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042966767673-nif5g18vgn7eulhj1ic92r60k6fq1qcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4VLlqCUw8wgz9oUnNanaZGDXTWUHo1AA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042966767673-nif5g18vgn7eulhj1ic92r60k6fq1qcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
